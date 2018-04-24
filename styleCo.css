@@ -1,0 +1,30 @@
+<style>
+body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif;}
+body, html {
+    height: 100%;
+    color: #777;
+    line-height: 1.8;
+}
+
+    body {
+        background-image: url('https://buidln.clipdealer.com/001/568/970//player/1.jpg');
+        background-size: 100%;
+    }
+
+.w3-wide {letter-spacing: 10px;}
+.w3-hover-opacity {cursor: pointer;}
+
+
+button {
+padding: 1em;
+border-radius: 0.5em;
+background: #eee;
+border: none;
+color: #777;
+font-weight: bold;
+margin-top: 1em;
+width: 220px;
+cursor: pointer;
+}
+    }
+</style>
